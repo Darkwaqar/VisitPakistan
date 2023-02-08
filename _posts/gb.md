@@ -4,8 +4,8 @@ excerpt: Gilgit-Baltistan is admisitrative unit of Pakistan situated in the Nort
 coverImage: '/assets/blog/gb/cover.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Waqar Khan
+  picture: '/assets/blog/authors/balochistan-icon.png'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---

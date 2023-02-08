@@ -4,8 +4,8 @@ excerpt: Sindh is in the southeast of the country, and the historical home of th
 coverImage: '/assets/blog/sindh/cover.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Waqar Khan
+  picture: '/assets/blog/authors/balochistan-icon.png'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---

@@ -4,8 +4,8 @@ excerpt: located in the northwestern region of the country along the internation
 coverImage: '/assets/blog/kpk/cover.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Waqar Khan
+  picture: '/assets/blog/authors/balochistan-icon.png'
 ogImage:
   url: '/assets/blog/kpk/cover.png'
 ---
